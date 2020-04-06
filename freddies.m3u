@@ -1,0 +1,61 @@
+﻿#EXTM3U
+#EXTINF:-1,CBC NEWS
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1,CBC MONTREAL
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1,CITY MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/15073
+#EXTINF:-1,CTV NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2423
+#EXTINF:-1,CTV MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2398
+#EXTINF:-1,GLOBAL MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2397
+#EXTINF:-1,ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1,ICI TELE MONTREAL
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1,LCN
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
+#EXTINF:-1,TELE-QUEBEC
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1,TELE-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1,TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,CNN NEWS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e630a8a3-c25a-4c3c-aedd-6fbdcc6fd060&deviceId=d6ae0d04-f1fc-4abd-ad59-5e7b3825032b&deviceVersion=79.0.3945.88&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:-1,CBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1,FOX NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/363
+#EXTINF:-1,MSNBC
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/365
+#EXTINF:-1,NBC NEWS
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CGTN FRANCAIS
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,FRANCE 24 EN
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1,TVB JADE
+http://m.567it.com/jade.m3u8
+#EXTINF:-1,TVB JADE HD
+http://180.94.172.134:8891/stream/channelid/540849414
+#EXTINF:-1,TVB PEARL
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1, DISCOVERY
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
