@@ -1,0 +1,143 @@
+#EXTM3U				
+"#EXTINF:-1 group-title="动物星球",Animal Planet			
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288				
+"#EXTINF:-1 group-title="龙华偶像",龙华偶像
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
+"#EXTINF:-1 group-title="龙华日韩",龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
+"#EXTINF:-1 group-title="龙华戏剧",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
+"#EXTINF:-1 group-title="NBC News",NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+"#EXTINF:-1 group-title="ESPN",ESPN
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137225
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/35326
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/480
+"#EXTINF:-1 group-title="ABC (Austrilia)",ABC (Austrilia)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+"#EXTINF:-1 group-title="Fox News",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+"#EXTINF:-1 group-title="上海纪实人文",上海纪实人文
+http://140.207.241.3:8080/live/program/live/jspdhd/4000000/d1.m3u8
+"#EXTINF:-1 group-title="HBO Zone (USA)",HBO Zone (USA)
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15611.ts
+"#EXTINF:-1 group-title="HBO2",HBO2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144621
+"#EXTINF:-1 group-title="HBO PREMIUM",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+"#EXTINF:-1 group-title="HBO Comedy",HBO Comedy
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283358
+"#EXTINF:-1 group-title="HBO3",HBO3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362
+"#EXTINF:-1 group-title="SKY SPORT",SKY SPORT
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/379525
+"#EXTINF:-1 group-title="SKY SPORT 1 HD",SKY SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036
+"#EXTINF:-1 group-title="SKY SPORT 2 HD",SKY SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30039
+"#EXTINF:-1 group-title="SKY SPORT F1 HD",SKY SPORT F1 HD
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+"#EXTINF:-1 group-title="Sky Sports Football HD",Sky Sports Football HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179085
+"#EXTINF:-1 group-title="Sky Sports Action",Sky Sports Action"
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15401.ts
+"#EXTINF:-1 group-title="Sky Sports Arena",Sky Sports Arena
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15402.ts
+"#EXTINF:-1 group-title="Sky Cinema Action FHD",Sky Cinema Action FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177564
+"#EXTINF:-1 group-title="SKY News FHD",SKY News FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177453
+"#EXTINF:-1 group-title="National Geographic Wild",National Geographic Wild
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15598.ts
+"#EXTINF:-1 group-title="CNN",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+"#EXTINF:-1 group-title="ANIMAX",ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+"#EXTINF:-1 group-title="CNC 中文",CNC 中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+"#EXTINF:-1 group-title="Fox Movie",Fox Movie
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2207
+"#EXTINF:-1 group-title="Fox Movie Action",Fox Movie Action
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374641	
+"#EXTINF:-1 group-title="CNBC",CNBC
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162533
+"#EXTINF:-1 group-title="CNBC HD",CNBC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137326
+"#EXTINF:-1 group-title="MSNBC",MSNBC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137428
+"#EXTINF:-1 group-title="Disney Channel UK",Disney Channel UK
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15315.ts
+"#EXTINF:-1 group-title="ESPN",ESPN
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137225
+"#EXTINF:-1 group-title="ESPN2",ESPN2
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/35326
+"#EXTINF:-1 group-title="ESPN3",ESPN3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/480
+"#EXTINF:-1 group-title="Eurosport UK",Eurosport UK
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15377.ts
+"#EXTINF:-1 group-title="BBC1",BBC1
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15587.ts
+"#EXTINF:-1 group-title="BBC2",BBC2
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15588.ts
+"#EXTINF:-1 group-title="Disney UK",Disney UK
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15315.ts
+"#EXTINF:-1 group-title="CHC高清",CHC高清
+http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+"#EXTINF:-1 group-title="CHC家庭",CHC家庭
+http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
+"#EXTINF:-1 group-title="CHC动作",CHC动作
+http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+"#EXTINF:-1 group-title="CCTV13",CCTV13
+http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
+"#EXTINF:-1 group-title="CCTV10",CCTV10
+http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/d1.m3u8
+"#EXTINF:-1 group-title="CCTV9",CCTV9
+http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
+"#EXTINF:-1 group-title="CCTV6",CCTV6
+http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
+"#EXTINF:-1 group-title="CCTV5+",CCTV5+
+http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
+"#EXTINF:-1 group-title="CCTV5",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225756/index.m3u8
+"#EXTINF:-1 group-title="CCTV1",CCTV1
+http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+"#EXTINF:-1 group-title="CCTV4K",CCTV4K
+https://p.ggiptv.com/v/4k.m3u8
+"#EXTINF:-1 group-title="CCTV4",CCTV4
+http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+"#EXTINF:-1 group-title="CGTN",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+"#EXTINF:-1 group-title="CNN International",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+"#EXTINF:-1 group-title="山东卫视",山东卫视
+http://111.40.196.9/PLTV/88888888/224/3221225546/index.m3u8
+"#EXTINF:-1 group-title="山东体育",山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+"#EXTINF:-1 group-title="辽宁卫视",辽宁卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
+"#EXTINF:-1 group-title="辽宁体育",辽宁体育
+http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+"#EXTINF:-1 group-title="凤凰资讯",凤凰资讯	
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+"#EXTINF:-1 group-title="HKS",HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+"#EXTINF:-1 group-title="体育赛事",体育赛事
+http://39.134.65.183/PLTV/88888888/224/3221225706/1.m3u8
+"#EXTINF:-1 group-title="五星体育",五星体育
+http://140.207.241.3:8080/live/program/live/ssty/4000000/d1.m3u8
+"#EXTINF:-1 group-title="劲爆体育",劲爆体育
+http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
+"#EXTINF:-1 group-title="澳门莲花",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+"#EXTINF:-1 group-title="芒果TV",芒果TV
+http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
+"#EXTINF:-1 group-title="东方卫视",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+"#EXTINF:-1 group-title="东方影视",东方影视
+http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
+"#EXTINF:-1 group-title="东方财经",东方财经
+http://140.207.241.3:8080/live/program/live/dfcj/1300000/d1.m3u8
+"#EXTINF:-1 group-title="NHK World",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+"#EXTINF:-1 group-title="NHK 华语",NHK 华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
