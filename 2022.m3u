@@ -1,12 +1,6 @@
 #EXTM3U				
 "#EXTINF:-1 group-title="动物星球",Animal Planet			
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288				
-"#EXTINF:-1 group-title="龙华偶像",龙华偶像
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
-"#EXTINF:-1 group-title="龙华日韩",龙华日韩
-http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
-"#EXTINF:-1 group-title="龙华戏剧",龙华戏剧
-http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d	
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 "#EXTINF:-1 group-title="NBC News",NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 "#EXTINF:-1 group-title="ESPN",ESPN
@@ -29,8 +23,6 @@ https://s.vdo.ai/vhs/1.m3u8
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283358
 "#EXTINF:-1 group-title="HBO3",HBO3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362
-"#EXTINF:-1 group-title="SKY SPORT",SKY SPORT
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/379525
 "#EXTINF:-1 group-title="SKY SPORT 1 HD",SKY SPORT 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036
 "#EXTINF:-1 group-title="SKY SPORT 2 HD",SKY SPORT 2 HD
@@ -135,9 +127,31 @@ http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 "#EXTINF:-1 group-title="东方影视",东方影视
 http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
-"#EXTINF:-1 group-title="东方财经",东方财经
-http://140.207.241.3:8080/live/program/live/dfcj/1300000/d1.m3u8
+"#EXTINF:-1 group-title="金鹰纪实",金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+"#EXTINF:-1 group-title="深圳卫视",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+"#EXTINF:-1 group-title="东南卫视",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 "#EXTINF:-1 group-title="NHK World",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-"#EXTINF:-1 group-title="NHK 华语",NHK 华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+"#EXTINF:-1 group-title="Nat Geo Wild",Nat Geo Wild
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128995
+"#EXTINF:-1 group-title="爱探索",爱探索
+http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+"#EXTINF:-1 group-title="爱赛车",爱赛车
+http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+"#EXTINF:-1 group-title="爱科学",爱科学
+http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+"#EXTINF:-1 group-title="爱动漫",爱动漫
+http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+"#EXTINF:-1 group-title="台视新闻",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+"#EXTINF:-1 group-title="乐游",乐游
+http://140.207.241.3:8080/live/program/live/qjshd/4000000/d1.m3u8
+"#EXTINF:-1 group-title="Showtime2",Showtime2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137322
+"#EXTINF:-1 group-title="Showtime1",Showtime1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137302
+"#EXTINF:-1 group-title="TVB 剧场",TVB 剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
