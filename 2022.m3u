@@ -12,7 +12,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 "#EXTINF:-1 group-title="Fox News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 "#EXTINF:-1 group-title="上海纪实人文",上海纪实人文
-http://140.207.241.3:8080/live/program/live/jspdhd/4000000/d1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 "#EXTINF:-1 group-title="HBO Zone (USA)",HBO Zone (USA)
 http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15611.ts
 "#EXTINF:-1 group-title="HBO2",HBO2
