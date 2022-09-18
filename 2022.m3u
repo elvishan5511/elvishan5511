@@ -12,7 +12,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 "#EXTINF:-1 group-title="Fox News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 "#EXTINF:-1 group-title="上海纪实人文",上海纪实人文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
 "#EXTINF:-1 group-title="HBO Zone (USA)",HBO Zone (USA)
 http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15611.ts
 "#EXTINF:-1 group-title="HBO2",HBO2
@@ -107,8 +107,8 @@ http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 "#EXTINF:-1 group-title="东方卫视",东方卫视
 http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8
-"#EXTINF:-1 group-title="东方影视",东方影视
-http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
+"#EXTINF:-1 group-title="东方新闻",东方新闻
+http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 "#EXTINF:-1 group-title="金鹰纪实",金鹰纪实
 http://111.20.33.70/TVOD/88888893/224/3221226351/index.m3u8
 "#EXTINF:-1 group-title="深圳卫视",深圳卫视
@@ -129,3 +129,5 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137322
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137302
 "#EXTINF:-1 group-title="TVB 剧场",TVB 剧场
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+"#EXTINF:-1 group-title="超级电影",超级电影
+http://39.134.115.163:8080/TVOD/88888910/224/3221225766/index.m3u8
