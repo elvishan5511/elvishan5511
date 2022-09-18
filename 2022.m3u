@@ -23,26 +23,12 @@ https://s.vdo.ai/vhs/1.m3u8
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283358
 "#EXTINF:-1 group-title="HBO3",HBO3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362
-"#EXTINF:-1 group-title="SKY SPORT 1 HD",SKY SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036
-"#EXTINF:-1 group-title="SKY SPORT 2 HD",SKY SPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30039
-"#EXTINF:-1 group-title="SKY SPORT F1 HD",SKY SPORT F1 HD
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-"#EXTINF:-1 group-title="Sky Sports Football HD",Sky Sports Football HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179085
-"#EXTINF:-1 group-title="Sky Sports Action",Sky Sports Action"
-http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15401.ts
-"#EXTINF:-1 group-title="Sky Sports Arena",Sky Sports Arena
-http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15402.ts
-"#EXTINF:-1 group-title="Sky Cinema Action FHD",Sky Cinema Action FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177564
-"#EXTINF:-1 group-title="SKY News FHD",SKY News FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177453
+"#EXTINF:-1 group-title="SKY News",SKY News FHD
+http://red.ipfox.org:8080/osama2022/osama2023/49243
 "#EXTINF:-1 group-title="National Geographic Wild",National Geographic Wild
 http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15598.ts
 "#EXTINF:-1 group-title="CNN",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+http://red.ipfox.org:8080/osama2022/osama2023/48790
 "#EXTINF:-1 group-title="ANIMAX",ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 "#EXTINF:-1 group-title="CNC 中文",CNC 中文
@@ -52,9 +38,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2207
 "#EXTINF:-1 group-title="Fox Movie Action",Fox Movie Action
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374641	
 "#EXTINF:-1 group-title="CNBC",CNBC
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162533
-"#EXTINF:-1 group-title="CNBC HD",CNBC HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137326
+http://red.ipfox.org:8080/osama2022/osama2023/49244
 "#EXTINF:-1 group-title="MSNBC",MSNBC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137428
 "#EXTINF:-1 group-title="Disney Channel UK",Disney Channel UK
