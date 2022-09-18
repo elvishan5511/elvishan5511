@@ -74,29 +74,29 @@ http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15588.ts
 "#EXTINF:-1 group-title="Disney UK",Disney UK
 http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15315.ts
 "#EXTINF:-1 group-title="CHC高清",CHC高清
-http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 "#EXTINF:-1 group-title="CHC家庭",CHC家庭
-http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
+http://111.20.33.70/TVOD/88888893/224/3221226462/index.m3u8
 "#EXTINF:-1 group-title="CHC动作",CHC动作
-http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+http://111.20.33.70/TVOD/88888893/224/3221226465/index.m3u8
 "#EXTINF:-1 group-title="CCTV13",CCTV13
-http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 "#EXTINF:-1 group-title="CCTV10",CCTV10
-http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/d1.m3u8
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
 "#EXTINF:-1 group-title="CCTV9",CCTV9
-http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225646/index.m3u8
 "#EXTINF:-1 group-title="CCTV6",CCTV6
-http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225632/index.m3u8
 "#EXTINF:-1 group-title="CCTV5+",CCTV5+
-http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
 "#EXTINF:-1 group-title="CCTV5",CCTV5
-http://39.135.138.58:18890/PLTV/88888888/224/3221225756/index.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225633/index.m3u8
 "#EXTINF:-1 group-title="CCTV1",CCTV1
-http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 "#EXTINF:-1 group-title="CCTV4K",CCTV4K
 https://p.ggiptv.com/v/4k.m3u8
 "#EXTINF:-1 group-title="CCTV4",CCTV4
-http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
 "#EXTINF:-1 group-title="CGTN",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 "#EXTINF:-1 group-title="CNN International",CNN
@@ -121,14 +121,12 @@ http://140.207.241.3:8080/live/program/live/ssty/4000000/d1.m3u8
 http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
 "#EXTINF:-1 group-title="澳门莲花",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
-"#EXTINF:-1 group-title="芒果TV",芒果TV
-http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
 "#EXTINF:-1 group-title="东方卫视",东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8
 "#EXTINF:-1 group-title="东方影视",东方影视
 http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
 "#EXTINF:-1 group-title="金鹰纪实",金鹰纪实
-http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+http://111.20.33.70/TVOD/88888893/224/3221226351/index.m3u8
 "#EXTINF:-1 group-title="深圳卫视",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 "#EXTINF:-1 group-title="东南卫视",东南卫视
@@ -137,62 +135,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 "#EXTINF:-1 group-title="Nat Geo Wild",Nat Geo Wild
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128995
-"#EXTINF:-1 group-title="爱探索",爱探索
-http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱赛车",爱赛车
-http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱科学",爱科学
-http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱动漫",爱动漫
-http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱喜剧",爱喜剧
-http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱奇谈",爱奇谈
-http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱极限",爱极限
-http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱怀旧",爱怀旧
-http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱经典",爱经典
-http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱世界",爱世界
-http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱悬疑",爱悬疑
-http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱浪漫",爱浪漫
-http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱美食",爱美食
-http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱体育",爱体育
-http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱旅行",爱旅行
-http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱玩具",爱玩具
-http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱青春",爱青春
-http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱家庭",爱家庭
-http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱猎奇",爱猎奇
-http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱世界",爱世界
-http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱科幻",爱科幻
-http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱解密",爱解密
-http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱院线",爱院线
-http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱历史",爱历史
-http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱谍战",爱谍战
-http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱时尚",爱时尚
-http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱江湖",爱江湖
-http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-"#EXTINF:-1 group-title="爱都市",爱都市
-http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 "#EXTINF:-1 group-title="台视新闻",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 "#EXTINF:-1 group-title="乐游",乐游
