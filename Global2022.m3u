@@ -27,8 +27,14 @@ http://190.83.119.67:8000/play/a0ta/index.m3u8?$1920x1080
 http://190.83.119.67:8000/play/a0t9/index.m3u8?$1920x1080
 "#EXTINF:-1 group-title="Sony Movies HD",Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8?$1280x1080
-
-
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录",动物星球
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",东森洋片台
+http://120.84.96.50:808/hls/33/index.m3u8?$1920x1080
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="台湾",[TW]龙华洋片
+http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-name="东森电影" group-title="港台", 东森电影
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png",江苏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png",浙江卫视
