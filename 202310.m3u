@@ -1,0 +1,69 @@
+#EXTM3U				
+"#EXTINF:-1 group-title="动物星球",Animal Planet			
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+"#EXTINF:-1 group-title="上海纪实人文",上海纪实人文
+http://111.40.196.35:443/PLTV/88888888/224/3221225491/1.m3u8
+"#EXTINF:-1 group-title="CNN",CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+"#EXTINF:-1 group-title="CCTV13",CCTV13
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+"#EXTINF:-1 group-title="CCTV10",CCTV10
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+"#EXTINF:-1 group-title="CCTV5+",CCTV5+
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+"#EXTINF:-1 group-title="CCTV9",CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+"#EXTINF:-1 group-title="CCTV5",CCTV5
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+"#EXTINF:-1 group-title="CCTV1",CCTV1
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+"#EXTINF:-1 group-title="CCTV4",CCTV4
+http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+"#EXTINF:-1 group-title="CGTN",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+"#EXTINF:-1 group-title="凤凰资讯",凤凰资讯	
+http://107.151.203.111:2209/135/hk.php?id=fhzw
+"#EXTINF:-1 group-title="五星体育",五星体育
+http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
+"#EXTINF:-1 group-title="东方卫视",东方卫视
+https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0bc51b40df-0-0-23a64a0dc546104d1ba498a41ff49540/index.m3u8
+"#EXTINF:-1 group-title="金鹰纪实",金鹰纪实
+https://cntv.sbs/tv?auth=230927&id=jyjs
+"#EXTINF:-1 group-title="公视",公视
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+"#EXTINF:-1 group-title="东森洋片",东森洋片
+http://162.19.247.76:22222/live/dsypt/index.m3u8
+"#EXTINF:-1 group-title="中天新闻",中天新闻
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+"#EXTINF:-1 group-title="好莱坞",好莱坞
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+"#EXTINF:-1 group-title="HBO",HBO
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+"#EXTINF:-1 group-title="星卫电影",星卫电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+"#EXTINF:-1 group-title="HBO HD",HBO HD
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+"#EXTINF:-1 group-title="TVBS",TVBS
+http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+"#EXTINF:-1 group-title="国家地理",国家地理
+http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+"#EXTINF:-1 group-title="美亚电影",美亚电影
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+"#EXTINF:-1 group-title="东森电影",东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+"#EXTINF:-1 group-title="探索亚洲",探索亚洲
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+"#EXTINF:-1 group-title="探索",探索
+http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+"#EXTINF:-1 group-title="axn",axn
+http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+"#EXTINF:-1 group-title="kids",kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+"#EXTINF:-1 group-title="kidsflix",kidsflix
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+"#EXTINF:-1 group-title="happykids",happykids
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+"#EXTINF:-1 group-title="animax",animax
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+"#EXTINF:-1 group-title="baby tv",baby tv
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
