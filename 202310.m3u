@@ -1,8 +1,20 @@
 #EXTM3U
 #EXTINF:-1,上海纪实人文
 http://111.40.196.35:443/PLTV/88888888/224/3221225491/1.m3u8
+#EXTINF:-1,HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1,动物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1,东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1,东森洋片
 http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1,COMEDY CENTRAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/758
+#EXTINF:-1,BABY TV
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,NEWSMAX
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN
 http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:-1,CCTV13
